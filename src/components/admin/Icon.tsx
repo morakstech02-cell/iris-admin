@@ -1,3 +1,4 @@
+﻿
 import { type ReactNode } from 'react';
 
 const PATHS: Record<string, ReactNode> = {
